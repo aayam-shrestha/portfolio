@@ -3,15 +3,17 @@ import timeline from "../data/timeline";
 
 const Timeline = () => {
   return (
-    <div className="border-black border-width-2 padding-10">
-      {timeline.map((item) => (
-        <TimelineItem
-          year={item.year}
-          title={item.title}
-          duration={item.duration}
-          details={item.details}
-        />
-      ))}
+    <div className="flex flex-col md:flex-row justify-center my-20">
+      <div className="w-full md:w-7/12">
+        {timeline.map((item) => (
+          <TimelineItem
+            year={item.year}
+            title={item.title}
+            duration={item.duration}
+            details={item.details}
+          />
+        ))}
+      </div>
     </div>
   );
 };

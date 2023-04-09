@@ -12,13 +12,13 @@ export default [
     year: "2023",
     title: "Bachelor's Degree in Computer Science",
     duration: "4 years",
-    details: "adsflkjasdf;lkkjasdf",
+    details: "Completed my Bachelor's degree in Computer Science",
   },
   {
-    year: "2016",
+    year: "2017",
     title: "First Line of Code",
     duration: "the beginning",
     details:
-      "I worte my first line of code that started my journey into this wonderful world of computers",
+      "I wrote my first line of code which got me started in my journey into this wonderful world of computers",
   },
 ];

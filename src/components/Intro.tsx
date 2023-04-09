@@ -1,13 +1,11 @@
 const Intro = () => {
   return (
     <div className="flex flex-col justify-center items-center pt-20 pb-8">
-      <h1 className="text-4xl md:text-7xl mb-1 md:mb-3 font-bold">
+      <h1 className="text-4xl md:text-7xl mb-2 md:mb-4 font-bold">
         Aayam Shrestha
       </h1>
-      <p className="text-base md:text-cl mb-3 font-medium">
-        Software Engineer and Web Developer
-      </p>
-      <p className="text-sm max-w-xl mb-6 font-bold">
+      <p className="text-base md:text-cl mb-6 font-medium">Software Engineer</p>
+      <p className="text-sm md:text-base max-w-xl mb-7 font-semibold">
         I'm a senior computer science student with a passion for software
         engineering, music, and photography. With a love for learning new
         technologies and exploring diverse areas of interest, I'm always up for

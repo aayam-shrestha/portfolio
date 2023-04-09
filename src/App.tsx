@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App p-5">
+    <div className="App p-5 bg-stone-50">
       <Intro />
       <Portfolio />
       <Timeline />

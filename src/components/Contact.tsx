@@ -25,6 +25,7 @@ const Contact = () => {
           <textarea
             name="message"
             rows={10}
+            placeholder="Message"
             className="border-2 rounded-md bg-transparent focus:outline-none p-2 mb-4"
           />
           <button

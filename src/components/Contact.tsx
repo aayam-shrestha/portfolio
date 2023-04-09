@@ -14,18 +14,21 @@ const Contact = () => {
             type="text"
             name="name"
             placeholder="Name"
+            required
             className="p-2 border-2 bg-transparent rounded-md focus:outline-none"
           />
           <input
             type="email"
             name="email"
             placeholder="Email"
+            required
             className="my-2 p-2 border-2 bg-transparent rounded-md focus:outline-none"
           />
           <textarea
             name="message"
             rows={10}
             placeholder="Message"
+            required
             className="border-2 rounded-md bg-transparent focus:outline-none p-2 mb-4"
           />
           <button

@@ -21,6 +21,6 @@ export default [
     title: "Realtime Laundry Monitoring App",
     imgUrl: "assets/knightwash-stats.png",
     stack: ["Python", "SQLite"],
-    link: "https://github.com/KnightWash/CS39X-IOT-Senior-Project-22-23https://github.com/aayam-shrestha",
+    link: "https://knightwash-webui-angular.web.app/",
   },
 ];

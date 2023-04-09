@@ -12,7 +12,7 @@ export default [
     link: "https://github.com/aayam-shrestha/KnightBites_Client",
   },
   {
-    title: "Developer Portfolio",
+    title: "Portfolio Website",
     imgUrl: "assets/portfolio-website.jpg",
     stack: ["React", "Vite", "TailwindCSS", "TypeScript"],
     link: "https://github.com/aayam-shrestha/portfolio",
